@@ -1,0 +1,61 @@
+﻿Age Range,Gender,Skin Type,Weather,Temperature,Product,Applied,Bought
+20 - 29,M,AF/C,Sunny,13,Anthelios UV Light,481,289
+30 - 39,M,AF/C,Sunny,12,Anthelios UV 30,721,476
+40 - 49,M,AF/C,Sunny,13,Anthelios UV Light,428,385
+50 - 59,M,AF/C,Sunny,12,Anthelios UV 30,384,342
+60+,M,AF/C,Sunny,13,Anthelios UV 30,610,488
+20 - 29,F,AF/C,Sunny,17,Anthelios UV Light,697,592
+30 - 39,F,AF/C,Sunny,18,Anthelios UV 30,334,294
+40 - 49,F,AF/C,Sunny,22,Anthelios UV Neutral,560,336
+50 - 59,F,AF/C,Sunny,15,Anthelios UV 30,679,645
+60+,F,AF/C,Sunny,20,Anthelios UV Neutral,175,152
+20 - 29,M,EU/W,Sunny,17,Anthelios UV Neutral,560,442
+30 - 39,M,EU/W,Sunny,20,Anthelios UV Neutral,264,169
+40 - 49,M,EU/W,Sunny,14,Anthelios UV Light,215,159
+50 - 59,M,EU/W,Sunny,20,Anthelios UV Neutral,355,256
+60+,M,EU/W,Sunny,17,Anthelios UV Neutral,263,252
+20 - 29,F,EU/W,Sunny,20,Anthelios UV Light,235,148
+30 - 39,F,EU/W,Sunny,20,Anthelios UV 30,601,469
+40 - 49,F,EU/W,Sunny,17,Anthelios UV Light,172,136
+50 - 59,F,EU/W,Sunny,17,Anthelios UV 30,566,391
+60+,F,EU/W,Sunny,12,Anthelios UV Neutral,663,464
+20 - 29,M,AF/C,Cloudy,13,Anthelios UV 30,382,332
+30 - 39,M,AF/C,Cloudy,16,Anthelios UV Neutral,579,411
+40 - 49,M,AF/C,Cloudy,17,Anthelios UV Neutral,610,525
+50 - 59,M,AF/C,Cloudy,15,Anthelios UV Neutral,109,101
+60+,M,AF/C,Cloudy,21,Anthelios UV Light,702,611
+20 - 29,F,AF/C,Cloudy,15,Anthelios UV Neutral,371,234
+30 - 39,F,AF/C,Cloudy,21,Anthelios UV Neutral,340,272
+40 - 49,F,AF/C,Cloudy,12,Anthelios UV Light,535,482
+50 - 59,F,AF/C,Cloudy,16,Anthelios UV Neutral,674,566
+60+,F,AF/C,Cloudy,21,Anthelios UV 30,397,393
+20 - 29,M,EU/W,Cloudy,21,Anthelios UV Neutral,259,181
+30 - 39,M,EU/W,Cloudy,16,Anthelios UV Neutral,730,475
+40 - 49,M,EU/W,Cloudy,21,Anthelios UV Neutral,215,198
+50 - 59,M,EU/W,Cloudy,18,Anthelios UV Light,786,668
+60+,M,EU/W,Cloudy,20,Anthelios UV Neutral,106,98
+20 - 29,F,EU/W,Cloudy,23,Anthelios UV Neutral,655,570
+30 - 39,F,EU/W,Cloudy,19,Anthelios UV Light,117,78
+40 - 49,F,EU/W,Cloudy,14,Anthelios UV 30,390,234
+50 - 59,F,EU/W,Cloudy,17,Anthelios UV Light,640,499
+60+,F,EU/W,Cloudy,14,Anthelios UV 30,676,608
+20 - 29,M,AF/C,Rainy,14,Anthelios UV Neutral,604,423
+30 - 39,M,AF/C,Rainy,9,Anthelios UV 30,255,237
+40 - 49,M,AF/C,Rainy,8,Anthelios UV Neutral,745,469
+50 - 59,M,AF/C,Rainy,9,Anthelios UV 30,548,482
+60+,M,AF/C,Rainy,13,Anthelios UV Neutral,435,287
+20 - 29,F,AF/C,Rainy,12,Anthelios UV Neutral,140,127
+30 - 39,F,AF/C,Rainy,13,Anthelios UV Neutral,474,360
+40 - 49,F,AF/C,Rainy,17,Anthelios UV Light,748,666
+50 - 59,F,AF/C,Rainy,18,Anthelios UV Neutral,205,197
+60+,F,AF/C,Rainy,12,Anthelios UV Neutral,512,430
+20 - 29,M,EU/W,Rainy,15,Anthelios UV Light,651,514
+30 - 39,M,EU/W,Rainy,20,Anthelios UV 30,772,463
+40 - 49,M,EU/W,Rainy,17,Anthelios UV Neutral,261,193
+50 - 59,M,EU/W,Rainy,20,Anthelios UV Light,602,464
+60+,M,EU/W,Rainy,14,Anthelios UV Neutral,776,729
+20 - 29,F,EU/W,Rainy,20,Anthelios UV Neutral,726,639
+30 - 39,F,EU/W,Rainy,17,Anthelios UV Light,353,279
+40 - 49,F,EU/W,Rainy,20,Anthelios UV 30,756,499
+50 - 59,F,EU/W,Rainy,20,Anthelios UV 30,708,687
+60+,F,EU/W,Rainy,17,Anthelios UV Neutral,513,333
